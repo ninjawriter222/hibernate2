@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"hibernatetest22","l":"Customer"},{"p":"hibernatetest22","l":"HibernateTest22"}]
